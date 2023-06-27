@@ -256,12 +256,12 @@ justify-content: space-between;
 /*PIE DE PÁGINA*/
 
 .top-footer{
-  background-color:#8a6624;
+  background-color:#2d7dc9;
   height:25px;
 }
 
 .center-footer{
-  background-color: #472d0a;
+  background-color: #0a0e47;
 }
 
 .center-footer .contenedor{
@@ -290,7 +290,7 @@ justify-content: space-between;
 }
 
 .bottom-footer{
-  background-color:#251203;
+  background-color:#0a0e47;
   height:25px;
 }
 
